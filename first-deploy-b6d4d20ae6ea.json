@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "first-deploy-198005",
+  "private_key_id": "b6d4d20ae6ea55d79a8ad0f93166fcccb7c6d096",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpJ9xRi3W8OTiq\nJC+HFaZCtZPzk8xywFBQcaLOv9dpDcw9tt4cEgPFHVbs/sRAEIqd+XucQntokTMu\nFbAo6AjnHWPoOT6dTsg0APXYOJpLXi7dalMYsGbh5AGwpgA3ykkZVIowOEzzdgeO\nz9OkQxwYk8W8F7Jw5LcnxQUzZsoEM/GvtZv1uuprfnWIXgz+pCHn3kcKyvWWERNJ\niTgnn0Uby/TO46KCG6Xzq335ux5fXGAxHr8pzSuhsBHiVmPfXo/D2rhp46n2/G1F\n+0Lu+g0NLtiZSQlLNBxFnKibWdgzEmioKTQJHUNQTi2JSrsTKwXRaa1OCzhYUBTn\n6nQkh0INAgMBAAECggEAJnJEXZZcdqDs06Lw2Hufs9bQX1LO65/xQS9qySIKRDra\nGobHOcsQZ0tRWAFZupPn5ZrwMOZdZTlnUAim5s1CRMFF1WC5bgibcVJsji3jR9EK\nxtFlPJ3PbHUluzAnqYaFEchItkf9mXJQqnFrEZEdQCrKDQO3z3f0dwoNMg8hSE3k\nuo+tZs++ZkX7/70fdsQTAPP0E0d9cocqJySvQ+9zWbH4puRqIlhc51LtHwd0VMZn\naLTWA8bxbTDpbRolTXWIg7qBIEs8hs9j6/Fp1oPvQgyt5SU3lqhmysTAfDE5sjxP\nYmLrV1Dl9G6C+EY9B3DP5xWlcnndICosOtHwKIxyMQKBgQDsVlyj6ojLuJtiFMsv\nFs+vEfkdfMlelF6Q7ho0vE7t/TjdI55WT1qhO3YXHkYsG+xlxXbej+2Mqg2bwlit\nMkaQwd3OtNK+L0UcwW2vy3XZe0cCKgj1vu9DOWvI3eeFR0UTp/RE1oA3ixYRjUXt\n1i1VlX3l2MLgaxuEbQurcBWvhQKBgQC3OqDi08r9QykFGwb7tW4bhzU96qX7gytK\nx5cnXMvUCUigXQdJ5j+vvy48aoyqfTSYlcaCICA0NjIlc6c5g6+ZCU8b/4dN0+cU\ng6u3AgqNKbSfhLkHvANO8YIeSndIuvDn47t3MIwG26XjneKhQ4ZHrrDhfB4QLEHR\nIHDtzUsa6QKBgQCOGAKM/xcOPUkW+F+NSU7G+KxpoTxFJDmTM8UHzew6xJOqyZ6K\nUB2ycNi4X5hbLtK8AbRNbgWqHBggfQHp6B9rK1Rb0nYeqLcJ6fYzysVpY+g2keVf\nM1QRe/WlCF4J0ObkQYfo13qxamtzVBgmPi51lXLjfab1XRBnV1S716ECLQKBgQCY\njarIUDgw10r+4jrVNYCgUNmGXKinmNVhpH34Gu3l83jRc8MOxzJ9O/rd+IR3qlkx\nNXqaeu71Ka5kuj8fxsFb9IE2OXFI3kYGMX61l3B7iZ7GNbXsd6B1iOSiHbPlDSho\nmZZKrVPYneYndhvr0pGpewvwIOvS4VZHLPB5PbTriQKBgAyx+/mXQEG2bfy3uet9\nOMx1vjddRCmKR0N5G6Uj567eC6Zl4ZNQhqHmlIjEC+o2vkQXW6MtOM5/c5NFIPbE\nJQFK1EZJkh40Dlsjhai2kX1/X/dK8+ljhh2a0Gqcf8Czrw/lCrF9jokmk+or4kdv\npktdmnBDeONkR0uCzRGJdeA+\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecommerce-image-srohimah-com@first-deploy-198005.iam.gserviceaccount.com",
+  "client_id": "103093511864949387698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecommerce-image-srohimah-com%40first-deploy-198005.iam.gserviceaccount.com"
+}
